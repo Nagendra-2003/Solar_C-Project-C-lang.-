@@ -1,2 +1,2 @@
-# C-
-Related codes of c++ 
+# C-Language Code/Projects
+Related codes of c
